@@ -1,5 +1,6 @@
 <img width="1415" alt="Screenshot 2024-08-17 at 1 15 09 AM" src="https://github.com/user-attachments/assets/1b599ed1-ee51-4f72-9cbb-47194ecbcc22">
-v
+<img width="940" alt="Screenshot 2024-08-17 at 1 27 17 AM" src="https://github.com/user-attachments/assets/bd1cee90-d0b9-4435-ba33-59dd481c9aaf">
+
 
 # Getting Started with Create React App
 
